@@ -11,7 +11,8 @@
       "nav.contact": "Контакты",
 
       "hero.overline": "AI VIDEO CREATOR",
-      "hero.name": "Юлия Колесникова",
+      "hero.firstName": "Юлия",
+      "hero.lastName": "Колесникова",
       "hero.tagline": "Концепты и креативы под ДНК вашего бренда",
       "hero.subtitle": "Создаю атмосферные AI-видео для fashion- и luxury-брендов — там, где образ и вкус считываются за секунды.",
       "hero.cta": "Обсудить проект",
@@ -49,7 +50,8 @@
       "nav.contact": "Contact",
 
       "hero.overline": "AI VIDEO CREATOR",
-      "hero.name": "Yulia Kolesnikova",
+      "hero.firstName": "Yulia",
+      "hero.lastName": "Kolesnikova",
       "hero.tagline": "Concepts and creatives shaped by your brand's DNA",
       "hero.subtitle": "I craft cinematic AI video for fashion and luxury brands — where image and taste read in seconds.",
       "hero.cta": "Let's talk",
