@@ -147,12 +147,14 @@
     }
 
     var play = function () {
+      item.classList.add("is-playing");
       video.play();
     };
 
     var stop = function () {
       video.pause();
       video.currentTime = 0;
+      item.classList.remove("is-playing");
     };
 
     item.addEventListener("mouseenter", play);
