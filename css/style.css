@@ -398,6 +398,7 @@ button:focus-visible {
 
 .about__content .overline {
   margin-bottom: 0;
+  font-size: 0.75rem;
 }
 
 .about__content p {
